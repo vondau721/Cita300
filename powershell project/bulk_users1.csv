@@ -1,0 +1,3 @@
+firstname,middleInitial,lastname,username,email,streetaddress,city,zipcode,state,country,department,password,telephone,jobtitle,company,ou
+Tom,J,Johnson,TJohnson,TJohnson@team3.local,1234 address,New York,12345,New York,United States,Staff,Password123,555-5555,Staff,team3,"OU=Staff,DC=team3,DC=local"
+Fred,T,Wilson,FWilson,FWilson@team3.local,1234 address,New York,12345,New York,United States,Staff,Password123,555-5555,Staff,team3,"OU=Staff,DC=team3,DC=local"
